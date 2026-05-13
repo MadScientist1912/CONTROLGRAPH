@@ -124,6 +124,4 @@ This starts PostgreSQL and the FastAPI app together.
 - Secrets must come from environment variables or a secret manager.
 - Add stronger RBAC, rate limiting, structured logging, and test coverage before selling this to real clients.
 
-## License
 
-No license file is included yet. Choose a license before making the repository public.
